@@ -11,3 +11,8 @@ vi ifcfg-eth0
 ip addr show
 ifup eth0
 ping google.com
+pwd
+cd
+ls
+logoff
+poweroff
